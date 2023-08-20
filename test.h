@@ -1,9 +1,8 @@
-#include <string>
-
-
-
 #ifndef TEST_H
 #define TEST_H
+
+#include <iostream>
+
 class Node{
     std::string data;
     Node* left;
